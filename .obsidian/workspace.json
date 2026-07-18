@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "daedc2fe35896a51",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f4cabb443f7e589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee4bb63212e2b4c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. C#/3. Collections/1. Arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Arrays"
+            }
+          },
+          {
+            "id": "3517f7ae8847979e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Recursos/1. Artigos/2. Utilizando transações com EF (Entity Framework).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Utilizando transações com EF (Entity Framework)"
+            }
+          },
+          {
+            "id": "5b8b95bf44149e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Recursos/1. Artigos/2. Records e Structs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Records e Structs"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "435fe5a22f66f75e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b75327f8d3a8469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd3208ea38b8833",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "2d5fdf773460efae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "78bfcfb57d15e64b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "434ee81ec236dba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "66c5ad4f00e71a57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1b0d313667f260e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. C#/2. POO/11. Modificadores de Acesso.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 11. Modificadores de Acesso"
+            }
+          },
+          {
+            "id": "62c56e70f0343059",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. C#/2. POO/11. Modificadores de Acesso.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 11. Modificadores de Acesso"
+            }
+          },
+          {
+            "id": "e4a23b9a9b2a2a0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "536c49b9cc7401c9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "0805560f777a0990",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. C#/2. POO/11. Modificadores de Acesso.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 11. Modificadores de Acesso"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "5b8b95bf44149e74",
+  "lastOpenFiles": [
+    "2. Recursos/1. Artigos/1. Stack e Heap.md",
+    "2. Recursos/1. Artigos/2. Records e Structs.md",
+    "Imagens/Pasted image 20260715224812.png",
+    "Imagens",
+    "Imagens/Pasted image 20260715224425.png",
+    "2. Recursos/1. Artigos/3. Utilizando transações com EF (Entity Framework).md",
+    "2. Recursos/1. Artigos/4. Padrão de Projeto Strategy.md",
+    "2. Recursos/1. Artigos/2. Utilizando transações com Dapper.md",
+    "1. C#/3. Collections/2. List.md",
+    "Sem título.canvas",
+    "2. Recursos/1. Artigos",
+    "Sem título 2.md",
+    "2. Recursos",
+    "titulo teste.md",
+    "teste.md",
+    "1. C#/3. Collections/1. Arrays.md",
+    "1. C#/2. POO/11. Interfaces.md",
+    "1. C#/2. POO/8. Herança.md",
+    "1. C#/2. POO/9. Polimorfismo.md",
+    "1. C#/2. POO/6. Encapsulamento.md",
+    "1. C#/2. POO/4. Construtores.md",
+    "1. C#/2. POO/3. Objeto.md",
+    "1. C#/2. POO/2. Classe.md",
+    "1. C#/2. POO/1. Conceito.md",
+    "1. C#/2. POO/7. Modificadores de Acesso.md",
+    "1. C#/2. POO/5. Propriedades.md",
+    "1. C#/3. Collections",
+    "Encapsulamento.md",
+    "Classes.md",
+    "1. C#/2. POO/10. Abstração.md",
+    "Abstração.md",
+    "Polimorfismo.md",
+    "1. C#/1. Fundamentos",
+    "C#/POO/Sem título.md",
+    "1. C#/2. POO",
+    "1. C#"
+  ]
+}
