@@ -41,16 +41,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Recursos/1. Artigos/2. Records e Structs.md",
+                "file": "1. C#/3. Collections/Concretas/2. List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Records e Structs"
+              "title": "2. List"
+            }
+          },
+          {
+            "id": "417a6b1cfb1f272f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. C#/2. POO/11. Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Interfaces"
+            }
+          },
+          {
+            "id": "b2600812bd484981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. C#/3. Collections/Interfaces/1. IEnumerable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. IEnumerable"
+            }
+          },
+          {
+            "id": "ca54c003f2880998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. C#/3. Collections/Interfaces/3. IList.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. IList"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -212,9 +254,28 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5b8b95bf44149e74",
+  "active": "ca54c003f2880998",
   "lastOpenFiles": [
+    "1. C#/3. Collections/Interfaces/2. ICollection.md",
+    "1. C#/3. Collections/Interfaces/3. IList.md",
+    "1. C#/3. Collections/Interfaces/1. IEnumerable.md",
+    "1. C#/2. POO/11. Interfaces.md",
+    "1. C#/3. Collections/Interfaces",
+    "1. C#/3. Collections/Concretas/1. Array.md",
+    "1. C#/3. Collections/Concretas/7. LinkedList.md",
+    "1. C#/3. Collections/Concretas",
+    "1. C#/3. Collections/Concretas/6. Stack.md",
+    "1. C#/3. Collections/Concretas/5. Queue.md",
+    "1. C#/3. Collections/Concretas/4. HashSet.md",
+    "1. C#/2. POO/9. Polimorfismo.md",
+    "1. C#/3. Collections/Concretas/3. Dictionary.md",
+    "1. C.md",
+    "1. C#/3. Collections/Concretas/2. List.md",
+    "1. C#/2. POO/3. Objeto.md",
+    "1. C#/2. POO/2. Classe.md",
+    "1. C#/2. POO/1. Conceito.md",
     "2. Recursos/1. Artigos/1. Stack e Heap.md",
+    "1. C#/2. POO/8. Herança.md",
     "2. Recursos/1. Artigos/2. Records e Structs.md",
     "Imagens/Pasted image 20260715224812.png",
     "Imagens",
@@ -222,32 +283,15 @@
     "2. Recursos/1. Artigos/3. Utilizando transações com EF (Entity Framework).md",
     "2. Recursos/1. Artigos/4. Padrão de Projeto Strategy.md",
     "2. Recursos/1. Artigos/2. Utilizando transações com Dapper.md",
-    "1. C#/3. Collections/2. List.md",
     "Sem título.canvas",
     "2. Recursos/1. Artigos",
     "Sem título 2.md",
     "2. Recursos",
     "titulo teste.md",
     "teste.md",
-    "1. C#/3. Collections/1. Arrays.md",
-    "1. C#/2. POO/11. Interfaces.md",
-    "1. C#/2. POO/8. Herança.md",
-    "1. C#/2. POO/9. Polimorfismo.md",
     "1. C#/2. POO/6. Encapsulamento.md",
-    "1. C#/2. POO/4. Construtores.md",
-    "1. C#/2. POO/3. Objeto.md",
-    "1. C#/2. POO/2. Classe.md",
-    "1. C#/2. POO/1. Conceito.md",
-    "1. C#/2. POO/7. Modificadores de Acesso.md",
-    "1. C#/2. POO/5. Propriedades.md",
     "1. C#/3. Collections",
-    "Encapsulamento.md",
-    "Classes.md",
-    "1. C#/2. POO/10. Abstração.md",
-    "Abstração.md",
-    "Polimorfismo.md",
     "1. C#/1. Fundamentos",
-    "C#/POO/Sem título.md",
     "1. C#/2. POO",
     "1. C#"
   ]
